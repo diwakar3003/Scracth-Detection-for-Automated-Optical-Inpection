@@ -1,0 +1,1 @@
+# Scracth-Detection-for-Automated-Optical-Inpection
